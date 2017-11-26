@@ -1,0 +1,220 @@
+*{
+    margin: 0;padding: 0;
+}
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+#header-bg{
+    background: url(../images/hbag.png);
+    background-repeat: no-repeat;
+    min-height: 900px;
+    width: 100%;
+     background-position: center center;
+    background-size: cover;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    
+}
+.positioning{
+ position: -webkit-sticky;
+  position: sticky;
+    min-height: 40px;
+}
+.logo h2{
+    color: white;
+    font-size: 30pt;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.menu{
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin-top: 20px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;padding-right: 35px;
+    font-size: 18px;
+}
+.column{
+    margin-top: 140px;
+}
+.column h1{
+    color: white;
+    font-size: 35pt;
+    font-weight: bold;
+}
+.column p{
+    color: white;
+    font-size: 12pt;
+    margin-top: 40px;
+}
+.column button{
+    padding: 12px 30px;
+}
+.download{
+    background-color: #FC6A42;
+    border: 0px;
+    color: white;
+    font-size: 15pt;
+    margin-right: 10px;
+    border-radius: 3px;
+}
+.features_btn{
+    background-color: #4466C9;
+    border: 0px;
+    color: white;
+    font-size: 15pt;
+    border-radius: 3px;
+}
+.head_pic{
+    margin-top: 90px;
+    margin-left: 20px;
+}
+.fcontent{
+    margin-top: 100px;
+}
+h2{
+    font-size: 26pt;
+    color: #648CFF;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 120px;
+}
+.headp{
+    color: #999999;
+    text-align: center;
+}
+headp1{
+    text-align: left;
+}
+.single_cont{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.imglogo{
+    margin-top: 40px;
+}
+.facility h3{
+    color: #53566D;
+    font-size:25px;
+}
+.slider{
+    margin-top: 50px;
+}
+.slider-img{
+    min-height:  500px;
+    background-color: transparent;
+    border: 0px;
+    box-shadow: none;
+}
+.item-active{
+    min-height: 100px;
+}
+.f-image img{
+    margin-top: 150px;
+    min-height: 300px;
+    transform: scale(1.7);
+}
+.f-image2 img{
+    
+    margin-top: 150px;
+    min-height: 300px;
+    -webkit-transition: all 20ms ease-in;
+    -webkit-transform: scale(2.2); 
+    -ms-transition: all 20ms ease-in;
+    -ms-transform: scale(2); 
+}
+.mimgewrap{
+    margin-top: 140px;
+}
+.mhead img{
+    margin-top: 70px;
+}
+.mhead h2{
+    margin-top: 40px;
+}
+.heading_side{
+    text-align: left;
+}
+.inv{
+    float: right;
+    margin-top: -15px;
+}
+.inv1{
+    margin-bottom: -5px;
+    
+}
+ 
+
+.container-alert{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.mimgewraper p{
+    text-align: left;
+}
+.col-marg{
+    margin-top: 50px;
+}
+.all_image{
+    background: url(../images/allmobile.png);
+    background-repeat: no-repeat;
+    min-height: 350px;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-size: cover;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+.some-head{
+    color: white;
+    margin-top: 50px;
+}
+.some-head h1{
+    margin-bottom: 28px;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.some-head p{
+    margin-bottom: 15px;
+    font-size:14px;
+}
+
+footer{
+    background-image: url(../images/footerback.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 200px;
+}
+.fparg{
+    float: right;
+}
+.foothr{
+    color: #353854;
+}
+.hrsec{
+    border-bottom: 1px solid #444766;
+}
+.logo1 h2{
+    margin-top: 30px;
+    
+}
+.logo1 h2 span{
+    color: #F76C35;
+    
+}
+.footerp p{
+    margin-top: 30px;
+    color: #575A7B;
+}
+.ulli>ul>li>a {
+    color: white;padding-right: 20px;
+    font-size: 15px;
+}
